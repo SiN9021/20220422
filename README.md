@@ -3,6 +3,10 @@
 # *自己紹介*
 ## SiN/NiS
 
+# 座右の銘
+## Happiness deponds upon ourselves
+### 幸せかどうかは自分次第で決まる
+
 
 # *好きなこと・もの*
 ## ・ゲーム ・YouTube視聴 ・漫画
