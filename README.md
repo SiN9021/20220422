@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-# *自己紹介*
-**SiN/NiS**
+## *自己紹介*
+    *SiN/NiS*
 # *好きなこと・もの*
 ・ゲーム ・YouTube視聴 ・漫画
 # *最近気になっていること・したいこと*
