@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+# *自己紹介*
+**SiN/NiS**
+# *好きなこと・もの*
+・ゲーム ・YouTube視聴 ・漫画
+# *最近気になっていること・したいこと*
+・映画鑑賞 ・別ゲーム開拓 ・食べ歩き
+
+
+
 You can use the [editor on GitHub](https://github.com/SiN9021/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
