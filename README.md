@@ -8,14 +8,15 @@
 ## ・ゲーム ・YouTube視聴 ・漫画
 
 
-![YouTube](https://tyoudoii-illust.com/wp-content/uploads/2021/01/youtuber_01_%E3%82%B5%E3%83%A0%E3%83%8D.png)
+### ![YouTube](https://tyoudoii-illust.com/wp-content/uploads/2021/01/youtuber_01_%E3%82%B5%E3%83%A0%E3%83%8D.png)
 # *最近気になっていること・したいこと*
 ## ・映画鑑賞 ・別ゲーム開拓 ・動物を飼いたい  
 
 
-![映画](https://tyoudoii-illust.com/wp-content/uploads/2021/02/movie_%E3%82%B5%E3%83%A0%E3%83%8D.png)
+### ![映画](https://tyoudoii-illust.com/wp-content/uploads/2021/02/movie_%E3%82%B5%E3%83%A0%E3%83%8D.png)
 
-
+# 一言
+## なにかおすすめのゲームや、映画があったら教えて欲しいです。
 
 You can use the [editor on GitHub](https://github.com/SiN9021/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
