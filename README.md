@@ -4,7 +4,8 @@
 ## ・SiN/NiS
 
 # 「座右の銘」
-## ・Happiness deponds upon ourselves  ###幸せかどうかは自分次第で決まる.
+## ・Happiness deponds upon ourselves  
+### 幸せかどうかは自分次第で決まる.
 
 
 # *「好きなこと・もの」*
