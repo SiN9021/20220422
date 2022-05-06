@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: 新世界の神のホームページ
 description: GitHub Pagesで作りました
 logo: /logo.png
+
+plugins:
+  - jekyll-sitemap
