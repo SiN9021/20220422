@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # *「自己紹介」*
 ## ・SiN/NiS
 
