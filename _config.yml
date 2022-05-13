@@ -5,3 +5,5 @@ logo: /logo.png
 
 plugins:
   - jekyll-sitemap
+  
+google_analytics: UA-228691386-1
